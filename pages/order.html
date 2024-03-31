@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Form</title>
+    <link rel="stylesheet" href="../styles/styles.css">
+</head>
+<body>
+    <header>
+        <div class="Section-Container">
+            <span class="Logo"><img src="../images/Logo1.png" alt="Brand Logo" width="100"></span>
+            <span class="Name">Mama Planta</span>
+        </div>
+        <nav class="NavBar">
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../pages/menu.html">Menu</a></li>
+                <li><a href="../pages/aboutus.html">About us</a></li>
+                <li><a href="../pages/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <h1 class="Title" id="margin">Order Form</h1>
+
+    <form id="peopleForm" class="sectionForm">
+        <label for="numPeople">Number of People (max. 4):</label>
+        <input type="number" id="numPeople" name="numPeople" min="1" max="4" required>
+        <button type="submit">Start Order</button>
+    </form>
+
+    <div id="orderContainer" style="display: none;">
+        <!-- Contenedor para la orden -->
+    </div>
+
+    <button id="finishOrder" style="display: none;">Finish Order</button>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="../scripts/order.js"></script>
+</body>
+</html>

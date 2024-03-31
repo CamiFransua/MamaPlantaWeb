@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "category": "Anti Pasti",
+      "name": "Focaccia",
+      "ingredients": "Home-made focaccia with olive oil and 'Provenzal' (Garlic & parsley)",
+      "imageSrc": "../images/focaccia.jpg",
+      "price": 4.99
+    },
+    {
+        "id": 2,
+        "category": "Anti Pasti",
+        "name": "Bruschettas capresse",
+        "ingredients": "Toasted bread, tomatoes, garlic, basil and vegan home-made cheese.",
+        "imageSrc": "../images/bruschetta.jpg",
+        "price": 5.99
+    },
+    {
+        "id": 3,
+        "category": "Anti Pasti",
+        "name": "Empanadas",
+        "ingredients": "Argentinian empanadas filled with vegan home-made cheese and caramelized onions.",
+        "imageSrc": "../images/empanadas.jpg",
+        "price": 6.99
+    },
+    {
+        "id": 4,
+        "category": "Anti Pasti",
+        "name": "Chipa - Pan de queso",
+        "ingredients": "Gluten Free paraguayan cheese-bread.",
+        "imageSrc": "../images/chipa.jpg",
+        "price": 6.99
+    },
+    {
+        "id": 5,
+        "category": "Pasta",
+        "name": "Spaghetti",
+        "ingredients": "Home-made spaghetti (also Gluten Free)",
+        "imageSrc": "../images/spaghetti.jpg",
+        "price": 10
+    },
+    {
+        "id": 6,
+        "category": "Pasta",
+        "name": "Tortelli",
+        "ingredients": "Home-made tortelli filled with mushroom-mix (also Gluten Free)",
+        "imageSrc": "../images/tortelli.jpg",
+        "price": 12
+    },
+    {
+        "id": 7,
+        "category": "Pasta",
+        "name": "Lasagna",
+        "ingredients": "Eggplant lasagna (also Gluten Free)",
+        "imageSrc": "../images/lasagna.jpg",
+        "price": 14
+    },
+    {
+        "id": 8,
+        "category": "Sauce",
+        "name": "Marinara",
+        "ingredients": "Home-made tomatoes sauce",
+        "imageSrc": "../images/marinara.jpg",
+        "price": 3.99
+    },
+    {
+        "id": 9,
+        "category": "Sauce",
+        "name": "Alfredo",
+        "ingredients": "Home-made Alfredo sauce",
+        "imageSrc": "../images/alfredo.jpg",
+        "price": 3.99
+    },
+    {
+        "id": 10,
+        "category": "Sauce",
+        "name": "Vegetables",
+        "ingredients": "Vegetables mix home-made sauce",
+        "imageSrc": "../images/vegetables.jpg",
+        "price": 4.99
+    },
+    {
+        "id": 11,
+        "category": "Cold Drink",
+        "name": "Juniper cold tea",
+        "ingredients": "Home-made juniper tea with ginger, lemon, syrup and cinnamon",
+        "imageSrc": "../images/cold-tea.jpg",
+        "price": 5.99
+    },
+    {
+        "id": 12,
+        "category": "Cold Drink",
+        "name": "Glass of wine",
+        "ingredients": "Red, wine or rosé",
+        "imageSrc": "../images/wine.jpg",
+        "price": 4.99
+    },
+    {
+        "id": 13,
+        "category": "Cold Drink",
+        "name": "Water",
+        "ingredients": "Still or loud",
+        "imageSrc": "../images/water.jpg",
+        "price": 3.99
+    },
+    {
+        "id": 14,
+        "category": "Cold Drink",
+        "name": "Soda",
+        "ingredients": "Different options",
+        "imageSrc": "../images/soda.jpg",
+        "price": 4.99
+    },
+    {
+        "id": 15,
+        "category": "Dessert",
+        "name": "Flan",
+        "ingredients": "Vegan flan with cream and caramel sauce",
+        "imageSrc": "../images/flan.jpg",
+        "price": 6.99
+    },
+    {
+        "id": 16,
+        "category": "Dessert",
+        "name": "Pana cotta",
+        "ingredients": "Rosmarin pana cotta",
+        "imageSrc": "../images/pana-cotta.jpg",
+        "price": 6.99
+    },
+    {
+        "id": 17,
+        "category": "Dessert",
+        "name": "Cheese mousse",
+        "ingredients": "Vegan mascarpone mousse with quince jelly",
+        "imageSrc": "../images/cheese-mousse.jpg",
+        "price": 7.99
+    },
+    {
+        "id": 18,
+        "category": "Hot Drink",
+        "name": "Juniper tea",
+        "ingredients": "Home-made juniper tea with ginger, lemon, syrup and cinnamon",
+        "imageSrc": "../images/hot-tea.jpg",
+        "price": 5.99
+    },
+    {
+        "id": 19,
+        "category": "Hot Drink",
+        "name": "Espresso",
+        "ingredients": "Intense, rich, crema",
+        "imageSrc": "../images/espresso.jpg",
+        "price": 3.99
+    },
+    {
+        "id": 20,
+        "category": "Hot Drink",
+        "name": "Tea",
+        "ingredients": "Different options",
+        "imageSrc": "../images/tea.jpg",
+        "price": 4.99
+    }
+
+]
